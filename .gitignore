@@ -63,5 +63,8 @@ compose.override.yml
 docker-compose.override.yaml
 docker-compose.override.yml
 
+#PyCharm backup
+.idea_backup/
+
 # Keep Django migrations, source static assets, tests,
 # requirements.txt, README.md and .env.example in Git.
